@@ -27,3 +27,7 @@ Para a resolução deste teste utilize o arquivo ​bank-full.csv e para uma des
 ## 4. O resultado da campanha anterior tem relevância na campanha atual?
 ## 5. Qual o fator determinante para que o banco exija um seguro de crédito?
 ## 6. Quais são as características mais proeminentes de um cliente que possua empréstimo imobiliário?
+
+Obs: Opetei por responder as perguntas dentro do Jupyter, pois tive dificuldade em colocar os gráficos e as tabelas no Readme.
+
+Q5: Não respondi a questão 5.
