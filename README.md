@@ -30,4 +30,3 @@ Para a resolução deste teste utilize o arquivo ​bank-full.csv e para uma des
 
 Obs: Opetei por responder as perguntas dentro do Jupyter, pois tive dificuldade em colocar os gráficos e as tabelas no Readme.
 
-Q5: Não respondi a questão 5.
